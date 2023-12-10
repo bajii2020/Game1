@@ -1,0 +1,28 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: pink;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100hv;
+}
+
+.container {
+    text-align: center;
+    background-color: #fff;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0,0, 0.1);
+    margin-top: 50px;
+}
+
+button {
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+input {
+    padding: 8px;
+    font-size: 16px;
+}
